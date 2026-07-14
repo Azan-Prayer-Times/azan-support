@@ -66,7 +66,7 @@ For support or general inquiries, please contact:
 
 The privacy policy is available here:
 
-https://github.com/Azan-Prayer-Times/azan-support/blob/main/README.md
+https://github.com/Azan-Prayer-Times/azan-support/blob/main/PRIVACY.md
 
 
 ## Version Information
